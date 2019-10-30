@@ -1,7 +1,7 @@
 #################
 # Tidy Tuesday 6/4/2019
 # Allison Horst
-# Ramen ratings!
+# Ramen ratings
 
 # "This week's dataset is a ramen ratings dataset from The Ramen Rater. H/t to Data is Plural."
 ##################
